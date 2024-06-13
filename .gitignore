@@ -1,0 +1,4 @@
+# Folders and Files to ignore in this project
+data/*.csv
+data/*.xlsx
+!data/*.zip
