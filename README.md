@@ -30,7 +30,7 @@ Some aircraft make has high probability of being involved in an accident than ot
 Weather is a very sensitive condition that should be highly considered when venturing into aviation indurstry.<br />
 From our analysis, VMC is the most dangerous weather condition thus no airplane should be allowed to operate. IMC and UNK should also not be ignored <br /> and the aircraft work team must be very keen during operations.
 
-<img src="images/weather.png" alt="aircraft make" width="450" height="650">
+<img src="images/weather.png" alt="aircraft make" width="450" height="500">
 
 **Purpose_of_flight**
 
@@ -39,8 +39,8 @@ Aircraft Services like 'Personal', 'Instructional', 'Aerial Application' should 
 should consider Services like 'Public Aircraft', either offer it locally or globally because it has recorded a low risk to accidents
 
 High risk aircraft services<br />
-<img src="images/service.png" alt="risky service" width="650" height="450">
+<img src="images/service.png" alt="risky service" width="850" height="450">
 
 low risk aircraft services<br />
-<img src="images/good_service.png" alt="low risk service" width="650" height="450">
+<img src="images/good_service.png" alt="low risk service" width="850" height="450">
 
