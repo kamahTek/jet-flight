@@ -8,10 +8,9 @@ This project analysis dataset is from [Aviation Accident Database & Synopses, up
 
 The NTSB aviation accident database contains information from 1962 and later about civil aviation accidents and selected incidents globally.<br />The dataset is comprises of **31 columns** and **88,889 entries**. However, even with so much information, the dataset contains more than 30% of missing<br /> values and syntax errors.
 
-We believe that the "success" of aviation business can be measured by use of quality aircraft, by considering make and model less involved in accidents<br />
-and also the aviation service you consider venturing in
+We believe that the "success" of aviation business can be measured by use of quality aircraft, by considering make and model less involved in accidents<br /> and also the aviation service you consider venturing in
 
-Note: The **Aviation Accident Database & Synopses, up to 2023** dataset is provided zipped in our data folder and needs to be unzipped for data analysis.
+Note: The **Aviation Accident Database & Synopses, up to 2023** dataset is provided zipped in our data folder and<br /> needs to be unzipped for data analysis.
 
 ## Insights
 
@@ -43,4 +42,16 @@ High risk aircraft services<br />
 
 low risk aircraft services<br />
 <img src="images/good_service.png" alt="low risk service" width="850" height="450">
+
+## Conclusion
+
+According to analysis done on the used dataset, recent years indicate a decrease in Aircraft accidents. The growth of technology has positively<br />  impacted aviation safety.
+
+Although favorable weather conditions could appear to be less dangerous, they might occasionally cause pilots unsafe behaviors like flying at<br />  low altitudes, high speeds, or engaging in aerobatics beyond what is considered safe.
+
+Aviation accident tend to occur often among the most busy services, like, business service, personal service. Aviation authorities <br /> should be involved to conduct thorough investigations into all kinds of flight services in order to identify any faulty issue and put safety precautions<br /> in place to stop incidents.
+
+## For Inquiries, Business Proposals and Additional Information
+
+The analysis process is available in this [notebook](https://github.com/kamahTek/jet-flight/blob/master/flight.ipynb) and an [interactive tableau dashboard](https://public.tableau.com/app/profile/james.kamau/viz/FinalPhase_1_Project/JetFlightDashboard?publish=yes)
 
